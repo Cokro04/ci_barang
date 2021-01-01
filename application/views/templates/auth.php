@@ -16,11 +16,11 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
     <!-- Custom styles for this template-->
-    <link href="<?= base_url(); ?>assets/css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/css/sb-admin-2.css" rel="stylesheet">
 
     <style>
         .bg-login-image {
-            background-image: url("<?= base_url('assets/img/finance_0bdk.svg'); ?>");
+            background-image: url("<?= base_url('assets/img/logo-pos.svg'); ?>");
             background-repeat: no-repeat;
             background-size: 80%;
         }
@@ -28,7 +28,7 @@
 </head>
 
 
-<body class="bg-gradient-primary">
+<body class="bg-gradient-ptpos">
 
     <div class="container">
 

@@ -15,6 +15,7 @@
 
     <!-- Custom styles for this template-->
     <link href="<?= base_url(); ?>assets/css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/css/sb-admin-2.css" rel="stylesheet">
 
     <!-- Datepicker -->
     <link href="<?= base_url(); ?>assets/vendor/daterangepicker/daterangepicker.css" rel="stylesheet">
@@ -42,7 +43,7 @@
         <ul class="navbar-nav bg-white sidebar sidebar-light accordion shadow-sm" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex text-white align-items-center bg-dark justify-content-center" href="">
+            <a class="sidebar-brand d-flex text-white align-items-center bg-ptpos justify-content-center" href="">
                 <div class="sidebar-brand-icon">
                     <i class="fas fa-boxes"></i>
                 </div>
@@ -191,7 +192,7 @@
             <div id="content">
 
                 <!-- Topbar -->
-                <nav class="navbar navbar-expand navbar-dark bg-dark topbar mb-4 static-top shadow-sm">
+                <nav class="navbar navbar-expand navbar-dark bg-ptpost topbar mb-4 static-top shadow-sm">
 
                     <!-- Sidebar Toggle (Topbar) -->
                     <button id="sidebarToggleTop" class="btn btn-link bg-transparent d-md-none rounded-circle mr-3">

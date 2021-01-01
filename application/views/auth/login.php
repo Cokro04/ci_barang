@@ -1,5 +1,5 @@
 <!-- Outer Row -->
-<div class="row justify-content-center mt-5 pt-lg-5">
+<div class="row justify-content-center mt-5 pt-lg-1">
 
     <div class="col-xl-10 col-lg-12 col-md-9">
 
@@ -11,7 +11,7 @@
                     <div class="col-lg-6">
                         <div class="p-5">
                             <div class="text-center mb-4">
-                                <h1 class="h4 text-gray-900">Aplikasi Pengadaan Barang</h1>
+                                <h1 class="h4 text-gray-900">Aplikasi Pengadan Barang PT.Pos Indonesia</h1>
                                 <span class="text-muted">Login</span>
                             </div>
                             <?= $this->session->flashdata('pesan'); ?>
